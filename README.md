@@ -1,4 +1,4 @@
-- 👋 Hi, I’m polar, a 42 Angoulême student
+- 👋 42 Angoulême student
 
 <!---
 paularrd/paularrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
