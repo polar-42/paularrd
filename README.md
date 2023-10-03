@@ -3,6 +3,8 @@
 
 - I’m currently working on **ft_irc**
 
+- I’m currently learning **C++**
+
 - How to reach me **letolguenec.felix44@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
