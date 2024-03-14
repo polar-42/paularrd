@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=polar-42&label=Profile%20views&color=0e75b6&style=flat" alt="polar-42" />
 
-- I’m currently working on **ft_transcendence**
+- I’m currently working on **blockchain skills**
 
 - I’m currently learning **Django and web technologies**
 
